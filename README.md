@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raza Rafee</h1>
 
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I am Raza Rafee, Software Engineering Undergraduate Student at SLIATE</h3>
+<h3 align="center">I am a Software Engineering Undergraduate Student at SLIATE</h3>
  
 # 💫 About Me:
  - 👨‍💻 I’m currently Pursuing Higher National Diploma in IT <br>
@@ -18,13 +18,14 @@
 
 - 📫 How to reach me [📧](mailto:rafee8756@gmail.com)<br>
 
-- 📄 Know about me at [LinkedIn](https://linkedin.com/in/raza rafee/)<br>
+- 📄 Know about me at [LinkedIn](https://linkedin.com/in/raza-rafee/)<br>
 
 
 ## 🌐 Connect with me:
 <p align="left">
 
 <a href="https://linkedin.com/in/raza rafee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/raza rafee/" height="30" width="40" /></a> <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rafee8756 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rafee8756 " height="30" width="40" /></a>
+</p>
 
 
 # 💻 Tech Stack:
@@ -63,7 +64,7 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
    <a href="https://proto.io/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/ryPKgSTP9PxBrwuzFXavImbx1rS7y0VVwFXxqsdodg_jEQ1BNwFXLUnKNjNC3bsg4C2w" alt="proto.io" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://example.com/your-image.jpg" alt="description" width="40" height="40"/>
+ <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPPhJbdm0-XvzIJqssLLXheFX-xZqwknP6MQ&s" alt="description" width="40" height="40"/>
  </a>
  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original-wordmark.svg" alt="sketch" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
