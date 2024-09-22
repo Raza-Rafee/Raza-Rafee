@@ -4,29 +4,27 @@
 <h3 align="center">I am Raza Rafee, Software Engineering Undergraduate Student at SLIATE</h3>
  
 # 💫 About Me:
- 👨‍💻 I’m currently Pursuing Higher National Diploma in IT <br>
- 📫 How to reach me [📧](mailto:rafee8756@gmail.com)<br>
+ - 👨‍💻 I’m currently Pursuing Higher National Diploma in IT <br>
+ 
  - 🌱 I’m currently learning **React js**<br>
 
 - 👯 I’m looking to collaborate on **Biggest Project**<br>
 
-- 🤝 I’m looking for help with **Front-End Development**<br>
+- 🤝 I’m looking for help with **Full-Stack Development**<br>
 
 - 👨‍💻 All of my projects are available at [https://raza-rafee.github.io/Portfolio.github.io/](https://raza-rafee.github.io/Portfolio.github.io/)
 
 - 💬 Ask me about **Web development too.**
 
-- 📫 How to reach me **rafee8756@gmail.com**
+- 📫 How to reach me [📧](mailto:rafee8756@gmail.com)<br>
 
- 📄 Know about me at [LinkedIn](https://linkedin.com/in/raza rafee/)<br>
+- 📄 Know about me at [LinkedIn](https://linkedin.com/in/raza rafee/)<br>
 
 
 ## 🌐 Connect with me:
 <p align="left">
 
-<a href="https://linkedin.com/in/raza rafee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/raza rafee/" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rafee8756 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rafee8756 " height="30" width="40" /></a>
+<a href="https://linkedin.com/in/raza rafee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/raza rafee/" height="30" width="40" /></a> <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rafee8756 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rafee8756 " height="30" width="40" /></a>
 
 
 # 💻 Tech Stack:
@@ -65,7 +63,8 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
    <a href="https://proto.io/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/ryPKgSTP9PxBrwuzFXavImbx1rS7y0VVwFXxqsdodg_jEQ1BNwFXLUnKNjNC3bsg4C2w" alt="proto.io" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
- <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQnN19E18xtM23VtnQAxytEgzdujZ3XKCtnFrfzdXp-tBn1TKKJ" alt="canva" width="40" height="40"/> </a>
+ <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://example.com/your-image.jpg" alt="description" width="40" height="40"/>
+ </a>
  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original-wordmark.svg" alt="sketch" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
  <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a>
